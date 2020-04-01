@@ -6,7 +6,6 @@ If an issue arises and you cannot resolve it directly with the parties involved,
  
 In addition, the OpenJS Foundation maintains a Code of Conduct Panel (CoCP). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled. In order to escalate to the CoCP send an email to coc-escalation@lists.openjsf.org.
 
-- The OpenJSF team for managing CoC escalations ([see here](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md))
 
 ## Our Pledge
 
