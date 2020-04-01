@@ -2,7 +2,7 @@
 
 As a member of the Open JS Foundation, Express has adopted the [Contributor Covenant 2.0][homepage].
 You can see the full source below [coppied directly from here](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
-If an issue arises and you cannot resolve it directly with the parties involved, you can report it to the Express project TC through the following email:  XXXX
+If an issue arises and you cannot resolve it directly with the parties involved, you can report it to the Express project TC through the following email: express-coc@lists.openjsf.org
  
 In addition, the OpenJS Foundation maintains a Code of Conduct Panel (CoCP). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled. In order to escalate to the CoCP send an email to coc-escalation@lists.openjsf.org.
 
